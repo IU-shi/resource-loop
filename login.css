@@ -74,13 +74,7 @@ form {
   margin: 40px 0;
 }
 
-.sem {
-width: 100%;
- background: transparent; 
- border: none;
-  outline: none; 
-  color: #fff;
-}
+
 
 .input-box input {
   width: 100%;
